@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#image1{
+    width: 15%;
+}
+
+#image2{
+    width: 61%;
+}
+
+#image3{
+    width: 24%;
+    align-self: center;
+}
+
+#image4{
+    width: 80%;
+}
+
+#image5{
+    width: 20%;
+    align: left;
+}
+
+#Comments{
+    width: 622px;
+    align-self: center;
+}
